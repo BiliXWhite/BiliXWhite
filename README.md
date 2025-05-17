@@ -4,7 +4,6 @@
 
 - 我主要使用的编程语言：
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Windows Terminal](https://img.shields.io/badge/Windows%20Batch-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 - 我主要使用的编辑器：
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
